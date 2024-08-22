@@ -18,6 +18,6 @@ erter
 python main.py
 ```
 
-## Viewing The App
+## Viewing The app
 
 Go to `http://127.0.0.1:5000`
