@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## Running The App
-
+erter
 ```bash
 python main.py
 ```
