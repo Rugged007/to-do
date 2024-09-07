@@ -12,7 +12,7 @@ git clone <repo-url>
 pip install -r requirements.txt
 ```
 
-## Running The APPfff
+## Running The APPfffdsfg
 erter
 ```bash
 python main.py
